@@ -1,3 +1,3 @@
 # git_test
-Fyrsta almennilega Github repo-ið mitt
-Halló Óðinn
+Fyrsta almennilega Github repo-ið mitt. 
+Halló Óðinn!
